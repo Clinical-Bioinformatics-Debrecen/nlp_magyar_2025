@@ -1,6 +1,6 @@
 # Google Colab jegyzetfüzetek
 
-## Python Packages for Text Extraction from Different Sources
+## Python Packages for Text Extraction from Different Sources - a 2. témához
 https://colab.research.google.com/drive/1ZWlQ7XOp00pXTaYrb6iTLEwQPkOA2c9J?usp=sharing
 
 ## Regular expressions in Python - kiegészítés a 2. témához
