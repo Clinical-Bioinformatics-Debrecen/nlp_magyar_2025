@@ -1,10 +1,10 @@
 # Google Colab jegyzetfüzetek
 
 ## Python Packages for Text Extraction from Different Sources - a 2. témához
-https://colab.research.google.com/drive/1ZWlQ7XOp00pXTaYrb6iTLEwQPkOA2c9J?usp=sharing
+https://colab.research.google.com/drive/1ZWlQ7XOp00pXTaYrb6iTLEwQPkOA2c9J
 
 ## Regular expressions in Python - kiegészítés a 2. témához
-https://colab.research.google.com/drive/1xe-0jo9v9fhx4qnIAL9HJ7Obz3WzCrY7?usp=sharing
+https://colab.research.google.com/drive/1xe-0jo9v9fhx4qnIAL9HJ7Obz3WzCrY7
 
 ## 1. beadandó feladat
 https://colab.research.google.com/drive/1jNKDUUgQC2J4NHsSZxqCTy1xqTJAuI5-
@@ -26,3 +26,9 @@ https://colab.research.google.com/drive/1ckk8fZPfJLOAl0wzEEDymcwsgP7QuIiC
 
 ## Converting a Plain Text to an Annotated Vertical File - minta a 3. beadandó feladathoz
 https://colab.research.google.com/drive/1_wRF9moDAk6eMDkPISi8zd9x5Iylmfow
+
+## Perplexity of N-gram Language Models - kiegészítés az 5. témához
+https://colab.research.google.com/drive/1syYjYvTCMK3tLLM-DnbX5gUAL2OacsvS
+
+# Latent Semantic Analysis - kiegészítés a 6. témához
+https://colab.research.google.com/drive/11GRjBbHkMw62v1FsZJCh5pNAf7vIZHg2
