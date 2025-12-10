@@ -32,3 +32,12 @@ https://colab.research.google.com/drive/1syYjYvTCMK3tLLM-DnbX5gUAL2OacsvS
 
 # Latent Semantic Analysis - kiegészítés a 6. témához
 https://colab.research.google.com/drive/11GRjBbHkMw62v1FsZJCh5pNAf7vIZHg2
+
+## Masked Token Prediction with BERT - kiegészítés a 7. témához
+https://colab.research.google.com/drive/1F3QNDHT9LiX8aIkqYdWjQFBZPvpe4Vfc
+
+## Text Classification Using Sentence Transformer Embeddings and a Fine-tuned BERT Model - kiegészítés a 7. témához
+https://colab.research.google.com/drive/17cO-Si533uuNOUx7tRoRCxIKWYuR4ku8
+
+## Examples of Transformer Pipelines - kiegészítés a 7. témához
+https://colab.research.google.com/drive/1qEB7YQUywMzJbPhG5gQG9aZUQO3LuhKG
