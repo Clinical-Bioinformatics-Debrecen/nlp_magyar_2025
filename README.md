@@ -24,13 +24,13 @@ https://colab.research.google.com/drive/19Poxi7fh_cDdLo9epc0Jfdx0zucrNnII
 ## 2. beadandó feladat
 https://colab.research.google.com/drive/1ckk8fZPfJLOAl0wzEEDymcwsgP7QuIiC
 
-## Converting a Plain Text to an Annotated Vertical File - minta a 3. beadandó feladathoz
+## Converting a Plain Text into an Annotated Vertical File - minta a 3. beadandó feladathoz
 https://colab.research.google.com/drive/1_wRF9moDAk6eMDkPISi8zd9x5Iylmfow
 
 ## Perplexity of N-gram Language Models - kiegészítés az 5. témához
 https://colab.research.google.com/drive/1syYjYvTCMK3tLLM-DnbX5gUAL2OacsvS
 
-# Latent Semantic Analysis - kiegészítés a 6. témához
+## Latent Semantic Analysis - kiegészítés a 6. témához
 https://colab.research.google.com/drive/11GRjBbHkMw62v1FsZJCh5pNAf7vIZHg2
 
 ## Masked Token Prediction with BERT - kiegészítés a 7. témához
